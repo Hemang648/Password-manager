@@ -10,4 +10,4 @@ This is a simple Password Manager application built using Python and the tkinter
 # Installation 
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/Hemang648/password-manager.git
